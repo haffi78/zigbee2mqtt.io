@@ -289,7 +289,8 @@ Start with bulb on, then off, and then 6 “on’s”, where you kill the light 
 Press and hold the reset button on the device for +- 5 seconds (until the blue light starts blinking).
 
 **IMPORTANT**: Release and start pressing the reset button every second.
-This keeps the device awake, otherwise pairing will **fail!**.
+This keeps the device awake, otherwise pairing will **fail!**. You might need to push the button every 1 sec 
+while waiting for it to pair after its in pairing mode.
 
 *NOTE: When you fail to pair a device, try replacing the battery, this could solve the problem.*
 `,
